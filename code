@@ -265,7 +265,7 @@
           <div class="photo-wrap">
             <div class="photo">
               <!-- ADD YOUR PHOTO: put profile.jpg inside an "images" folder, then replace the next line with:
-                   <img src="images/profile.jpg" alt="Portrait of Soham Patil" /> -->
+                   <img src="images/profile.jpeg" alt="Portrait of Soham Patil" /> -->
               <span class="initials">SP</span>
             </div>
           </div>
